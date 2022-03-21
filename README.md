@@ -2,7 +2,7 @@
 A Code that allows you to get the "Playing" Discord Status without playing any games!
 
 ----
-
+P
 The [index.js](https://github.com/SealedSaucer/Gamecord/blob/main/index.js) is the main file. [server.js](https://github.com/SealedSaucer/Gamecord/blob/main/server.js) prevents your repl from going to sleep. (If you have a replit hacker plan, then you can delete [this file](https://github.com/SealedSaucer/Gamecord/blob/main/server.js) and paste this code inside the [index.js](https://github.com/SealedSaucer/Gamecord/blob/main/index.js) file : 
 
 </br>
